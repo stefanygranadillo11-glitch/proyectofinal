@@ -1,0 +1,17 @@
+
+{
+    "Personas" : [
+    {
+    "ID" : 1,
+    "Nombre" : "Stefany",
+    "Apellido" : "Castillo",
+    "Edad" : 20,
+    "Cantantes" : [
+        "The Weend", 
+        "Brunno Mars", 
+        "Danny Ocean", 
+        "Charlie Puth"
+    ]
+    }
+    ]
+}
